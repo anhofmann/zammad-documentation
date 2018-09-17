@@ -6,7 +6,7 @@ List
 
 Required permission:
 
-* authenticated user (content of notitifcations depends on user permissions)
+* authenticated user (content of notifications depends on user permissions)
 
 Request::
 
